@@ -1,3 +1,11 @@
+# Next.js _first try_
+
+This is a Poc for next.js implementation and the practice example from official doc of Next.js
+
+Will seek to adopt Next.js in Company project, since it's great and easy in managing performance and painless in deployment.
+
+Below is my notetaking for Next.js
+
 ### File-based Routing
 
 - We can use restful style routing for a uniformed routing style (with GET method only)
